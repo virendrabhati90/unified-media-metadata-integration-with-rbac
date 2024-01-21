@@ -1,0 +1,480 @@
+[
+  {
+    "id": "e199275e-b72a-4e6f-902f-05da7e10c3d9",
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years",
+    "release_date": "1994-09-23",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "crew": {
+      "director": "Frank Darabont",
+      "producer": "Niki Marvin",
+      "writer": "Stephen King"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "3f974c9e-28d5-4306-ac83-6543bd279f58",
+    "title": "Inception",
+    "description": "A mind-bending heist movie",
+    "release_date": "2010-07-16",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ellen Page"
+    ],
+    "crew": {
+      "director": "Christopher Nolan",
+      "producer": "Emma Thomas",
+      "writer": "Christopher Nolan"
+    },
+    "access_control": {
+      "Admin": [
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "eceb8508-499d-4063-a806-6c48ecdf404d",
+    "title": "The Dark Knight",
+    "description": "A vigilante known as Batman faces the Joker",
+    "release_date": "2008-07-18",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "crew": {
+      "director": "Christopher Nolan",
+      "producer": "Emma Thomas",
+      "writer": "Jonathan Nolan"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "bdee2494-605f-40cd-b4fa-753939894cb3",
+    "title": "Westworld",
+    "description": "An amusement park for rich guests with android hosts",
+    "release_date": "2016-10-02",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "cast": [
+      "Evan Rachel Wood",
+      "Jeffrey Wright",
+      "Ed Harris"
+    ],
+    "crew": {
+      "creators": [
+        "Jonathan Nolan",
+        "Lisa Joy"
+      ],
+      "producer": "J.J. Abrams"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ],
+      "Viewer": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "18fd7901-14a1-436f-bf1f-cf527e3f1fca",
+    "title": "Pulp Fiction",
+    "description": "Various interconnected stories in the criminal underworld",
+    "release_date": "1994-10-14",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "crew": {
+      "director": "Quentin Tarantino",
+      "producer": "Lawrence Bender",
+      "writer": "Quentin Tarantino"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "38da287d-ce6a-48a6-a029-8bab10c6dae3",
+    "title": "The Mandalorian",
+    "description": "A lone bounty hunter navigates the outer reaches of the galaxy",
+    "release_date": "2019-11-12",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Pedro Pascal",
+      "Gina Carano",
+      "Carl Weathers"
+    ],
+    "crew": {
+      "creator": "Jon Favreau",
+      "producer": "Kathleen Kennedy"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "95c3e8e0-6be0-4646-9a96-408a83854e1d",
+    "title": "The Matrix",
+    "description": "A computer hacker learns the truth about his reality",
+    "release_date": "1999-03-31",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "crew": {
+      "directors": [
+        "The Wachowskis"
+      ],
+      "producer": "Joel Silver",
+      "writers": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ]
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ]
+    }
+  },
+  {
+    "id": "6df66e34-915d-440e-ac63-a3d89c344b0f",
+    "title": "Black Mirror",
+    "description": "A series that explores the dark side of technology and its impact on society",
+    "release_date": "2011-12-04",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "cast": [
+      "Various"
+    ],
+    "crew": {
+      "creator": "Charlie Brooker",
+      "producer": "Annabel Jones"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Viewer": [
+        "description",
+        "genres"
+      ]
+    }
+  },
+  {
+    "id": "dfb3b27c-912c-40c8-969f-3b4f8c5fcd0a",
+    "title": "Forrest Gump",
+    "description": "A man with a low IQ witnesses historical events and unwittingly influences them",
+    "release_date": "1994-07-06",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "crew": {
+      "director": "Robert Zemeckis",
+      "producer": "Wendy Finerman",
+      "writer": "Eric Roth"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "2948aef2-5859-4060-a478-530ba976f779",
+    "title": "Game of Thrones",
+    "description": "A medieval fantasy series with noble families vying for control of the Seven Kingdoms",
+    "release_date": "2011-04-17",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "cast": [
+      "Emilia Clarke",
+      "Kit Harington",
+      "Peter Dinklage"
+    ],
+    "crew": {
+      "creators": [
+        "David Benioff",
+        "D. B. Weiss"
+      ],
+      "producer": "David Benioff"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "20564196-87ee-4430-8b78-f90843727607",
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son",
+    "release_date": "1972-03-24",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "crew": {
+      "director": "Francis Ford Coppola",
+      "producer": "Albert S. Ruddy",
+      "writer": "Mario Puzo"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "812cc544-ed4b-4217-840e-226cb7c6e350",
+    "title": "The Witcher",
+    "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts",
+    "release_date": "2019-12-20",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "cast": [
+      "Henry Cavill",
+      "Anya Chalotra",
+      "Freya Allan"
+    ],
+    "crew": {
+      "creator": "Lauren Schmidt Hissrich",
+      "producer": "Lauren Schmidt Hissrich"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "9f1b7ac3-9b6e-421f-8564-accbbd1e3439",
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years",
+    "release_date": "1994-09-23",
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ],
+    "crew": {
+      "director": "Frank Darabont",
+      "producer": "Niki Marvin",
+      "writer": "Stephen King"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  },
+  {
+    "id": "fc64ee7a-92fc-4cb5-9e34-643632d905ab",
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher turned methamphetamine manufacturer",
+    "release_date": "2008-01-20",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn"
+    ],
+    "crew": {
+      "creator": "Vince Gilligan",
+      "producer": "Vince Gilligan"
+    },
+    "access_control": {
+      "Admin": [
+        "description",
+        "genres",
+        "cast",
+        "crew"
+      ],
+      "Editor": [
+        "description",
+        "genres",
+        "cast"
+      ]
+    }
+  }
+]

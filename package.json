@@ -1,0 +1,31 @@
+{
+  "name": "unified-media-metadata-integration-with-rbac",
+  "version": "1.0.0",
+  "description": "Unified Media Metadata Integration with RBAC and Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virendrabhati90/unified-media-metadata-integration-with-rbac.git"
+  },
+  "keywords": [
+    "unified-media-metadata-integration-with-rbac",
+    "sony-test"
+  ],
+  "author": "Virendra Singh Bhati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virendrabhati90/unified-media-metadata-integration-with-rbac/issues"
+  },
+  "homepage": "https://github.com/virendrabhati90/unified-media-metadata-integration-with-rbac#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "uuid": "^9.0.1"
+  }
+}
