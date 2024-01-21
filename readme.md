@@ -6,8 +6,9 @@ Here is steps to execute project in local:
 2 Install git latest version
 3 create folder in your directory like test
 4 run git clone https://github.com/virendrabhati90/unified-media-metadata-integration-with-rbac.git
-5 run npm install
-6 run node index.js
+5 git checkout master
+6 run npm install
+7 run node index.js
 
 In Browser use below URL to verify data:
 Fetch single conslidated Data - http://localhost:8090/fetch-consolidateData
